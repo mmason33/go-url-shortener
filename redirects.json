@@ -1,0 +1,6 @@
+{
+    "/dogs": "https://www.google.com/search?q=dogs&oq=dogs",
+    "/cats": "https://www.google.com/search?q=cats&oq=cats",
+    "/cows": "https://www.google.com/search?q=cows&oq=cows",
+    "/fish": "https://www.google.com/search?q=fish&oq=fish"
+}
